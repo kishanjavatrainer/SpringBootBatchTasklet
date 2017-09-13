@@ -1,0 +1,2 @@
+Spring Batch provides the Tasklet interface, to process a single task, such 
+as clean or init resources before  or after any step running.
